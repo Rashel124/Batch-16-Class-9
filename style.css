@@ -1,0 +1,33 @@
+
+.container {
+    background-color: aqua;
+    width: 400px;
+    height: 500px;
+    border: 6px solid cornflowerblue;
+    margin: auto;
+    
+
+}
+
+.title {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 24px;
+
+}
+
+.input-element { 
+                  margin-top: 10 px;
+                margin-bottom: 10px;
+                padding: 5px;
+                
+                border-radius: 3px;
+                box-sizing: border box;
+}
+
+.btn {
+    background-color:antiquewhite;
+    color: green;
+    padding: 10px;
+    box-sizing: border-box;
+}
